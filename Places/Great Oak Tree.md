@@ -1,3 +1,5 @@
+- Round rug with magical rune circle underneath
+	- Rug half burnt by Mercury
 # Gnome Home
 - A small community of 20 [[Gnomes]] live in a series of underground rooms.
 - They are led by [[Grimm]].
