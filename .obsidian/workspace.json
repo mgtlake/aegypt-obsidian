@@ -193,12 +193,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 354
+    "width": 354,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
