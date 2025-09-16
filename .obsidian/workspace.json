@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Places/Great Oak Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +135,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Great Oak Tree"
+              "title": "Backlinks"
             }
           },
           {
@@ -174,13 +173,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Places/Great Oak Tree.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Great Oak Tree"
+              "title": "Outline"
             }
           },
           {
@@ -213,10 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da1e45cef7b7011f",
+  "active": "28396fef6b1fb584",
   "lastOpenFiles": [
-    "Session Logs/2025-09-16.md",
     "Places/Great Oak Tree.md",
+    "Session Logs/2025-09-16.md",
     "Session Logs",
     "People/Hobbits/Nolly.md",
     "Places/Burrow.md",
