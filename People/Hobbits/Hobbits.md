@@ -1,0 +1,4 @@
+- A.k.a. halflings.
+- Hobbits are generally 3' tall.
+- Hobbits generally quiet rural lives among their own kind, but some adventurous types venture out into the world. 
+- Hobbits are long-lived.

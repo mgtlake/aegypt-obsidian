@@ -1,0 +1,3 @@
+- Burrow is a village of [[Hobbits]] in the [[Westdale|Margraviate of Westdale]]. 
+- The inhabitants are loyal subjects and excellent farmers.
+- They live in comfortable Hobbit-holes in the hillside.

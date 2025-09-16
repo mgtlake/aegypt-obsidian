@@ -1,0 +1,3 @@
+- Gnomes are short humanoids. 
+- They are generally 1' tall and wear conical red felt hats. All male Gnomes have beards.
+- They generally live in enchanted woodlands and keep to themselves.

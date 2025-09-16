@@ -1,0 +1,3 @@
+- Moblim is a [[Gnomes|Gnome]] who lives in [[Great Oak Tree#Gnome Home]]. 
+- Overweight.
+- Sister of [[Fimir]].

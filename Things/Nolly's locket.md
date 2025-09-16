@@ -1,0 +1,5 @@
+- Family heirloom belonging to [[Nolly]].
+- Lost in [[Great Oak Tree]] when [[Nolly]] was a young girl.
+	- Currently worn by [[Gribbl]], who insists it was a present.
+- Party has been tasked by [[Nolly]] with retrieving it.
+- Made of silver with family heirloom inside.

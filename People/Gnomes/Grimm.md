@@ -1,0 +1,5 @@
+- Leader of the [[Gnomes]] in [[Great Oak Tree#Gnome Home]].
+- Long salt-and-pepper beard down to his toes.
+- 2' tall hat.
+- Insistent on getting the party to try some wine from his private cellar.
+- Husband of [[Gribbl]].

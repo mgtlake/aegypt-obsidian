@@ -1,0 +1,4 @@
+- Gribbl is a [[Gnomes|Gnome]] who lives in [[Great Oak Tree#Gnome Home]].
+- She has tree roots entwined in her hair, and wears a patchwork dress with eclectic jewellry.
+- Wears [[Nolly's locket]], insisting it was a parting gift.
+- Wife of [[Grimm]].

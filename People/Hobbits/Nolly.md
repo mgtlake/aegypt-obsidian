@@ -1,0 +1,4 @@
+- Nolly is an elderly [[Hobbits|Hobbit]] woman who lives in [[Burrow]].
+- When she was a young girl she liked to play in the caves beneath the [[Great Oak Tree]], but this came to an end when her family moved away.
+	- She specifically recalls enjoying tea with Fauns, supper with [[Great Oak Tree#Gnome Home|Gnomes]], and eating apples from the Night Garden.
+- She is desperate to retrieve her [[Nolly's locket|locket]], a family heirloom that she lost beneath the [[Great Oak Tree]] many years ago.

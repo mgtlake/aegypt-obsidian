@@ -1,0 +1,4 @@
+- Fimir is a [[Gnomes|Gnome]] butcher who lives in [[Great Oak Tree#Gnome Home]]. 
+- He mentioned that he mostly butchers fish, but occasionally other creatures (e.g. rabbits).
+- He is deferential towards [[Gribbl]], but caught himself before mentioning her role in the community.
+- Brother of [[Moblim]].
